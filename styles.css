@@ -1,0 +1,17 @@
+ol {
+    text-align: center;
+    margin: auto;
+    display: table;
+} 
+
+.Pizza
+{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.Burger
+{
+    font-weight: 900;
+}
