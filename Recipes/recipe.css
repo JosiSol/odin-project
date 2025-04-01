@@ -1,3 +1,7 @@
+body
+{
+    background-color: lightgoldenrodyellow;
+}
 .paragraph
 {
     color:darkblue;
@@ -6,4 +10,23 @@
 {
     height: auto;
     width: 300px;
+    margin: 0 auto;
+    display: block;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    text-align: center;
+    display: block;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: gray;
+}
+body h1
+{
+    text-align: center;
+    text-decoration: underline;
 }
